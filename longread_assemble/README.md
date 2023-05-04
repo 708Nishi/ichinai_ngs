@@ -1,3 +1,5 @@
+## 環境の変更でエラー出現する!
+
 #Outputディレクトリの作成
 ```
 for i in filtered flye_assembly guppy kleborate medaka nano_summary RASTtk; do mkdir -p output/$i; done

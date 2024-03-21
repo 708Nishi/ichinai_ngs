@@ -3,7 +3,7 @@
 #sample はrawdata2ディレクトリ内にFast5形式で保存されている。
 
 # 処理するディレクトリ名を指定
-samples=("Ko03" "Kp16" "Kp32" "Kp40" "Kp53" "Kp58")
+samples=("Kp03" "Kp16" "Kp32" "Kp40" "Kp53" "Kp58")
 
 for sample in "${samples[@]}"; do
   # Outputディレクトリの確認と作成
